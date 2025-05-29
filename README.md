@@ -35,4 +35,4 @@ This project applies supervised machine learning techniques to identify Parkinso
 - pandas
 - NumPy
 - matplotlib, seaborn
-- Google Colab Notebook
+- Jupyter Notebook
